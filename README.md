@@ -6,7 +6,7 @@ The detailed results can be seen in the [Multi-Attention-Network for Semantic Se
 
 The related repositories include:
 * [MACU-Net](https://github.com/lironui/MACU-Net)->A revised U-Net structure.
-* [MAResU-Net](https://github.com/lironui/MAResU-Net->Another type of attention mechanism with linear complexity.
+* [MAResU-Net](https://github.com/lironui/MAResU-Net)->Another type of attention mechanism with linear complexity.
 
 If our code is helpful to you, please cite:
 
