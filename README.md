@@ -32,15 +32,18 @@ imageio >= 2.8.0
 
 Network:
 ------- 
-![network](https://github.com/lironui/MAResU-Net/blob/main/Fig/network.png)  
-Fig. 1.  The structure of (a) the proposed MAResU-Net and (b) the attention block.
+![network](https://github.com/lironui/Multi-Attention-Network/blob/master/Fig/MultiNet.png)  
+Fig. 1.  The structure of (a) the proposed MANet, (b) the Attention block, (c) the ResBlock, and (d) the DeBlock.
 
 Result:
 ------- 
-![Result](https://github.com/lironui/MAResU-Net/blob/main/Fig/result.png)  
-Fig. 2. Visualization of results on the Vaihingen.
+![Vaihingen](https://github.com/lironui/Multi-Attention-Network/blob/master/Fig/vai.png)  
+Fig. 2. Qualitative comparisons (1024 × 1024 patches) between our method and baseline on Vaihingen test set.
+
+![Vaihingen](https://github.com/lironui/Multi-Attention-Network/blob/master/Fig/pot.png)  
+Fig. 3. Qualitative comparisons (1024 × 1024 patches) between our method and baseline on Potsdam test set.
 
 Complexity:
 ------- 
-![Complexity](https://github.com/lironui/MAResU-Net/blob/main/Fig/complexity.png)  
-Fig. 3. The (a) computation requirement and (b) memory requirement of the raw dot-product attention mechanism and the proposed linear attention mechanism under different input sizes. Please notice that the figure is in log scale.
+![Complexity](https://github.com/lironui/Multi-Attention-Network/blob/master/Fig/consumer.png)  
+Fig. 4. The (a) computation requirement and (b) memory requirement of the raw dot-product attention mechanism and the proposed kernel attention mechanism under different input sizes. Please notice that the figure is in log scale.
