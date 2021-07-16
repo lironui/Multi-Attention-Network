@@ -2,7 +2,7 @@
 
 In this repository, a novel attention mechanism of kernel attention with linear complexity is proposed to alleviate the large computational demand in attention. Based on kernel attention and channel attention, we integrate local feature maps extracted by ResNet-50 with their corresponding global dependencies and reweight interdependent channel maps adaptively. Numerical experiments on two large-scale ﬁne-resolution remote sensing datasets demonstrate the superior performance of the proposed MANet.
 
-The detailed results can be seen in the [Multi-Attention-Network for Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://arxiv.org/ftp/arxiv/papers/2009/2009.02130.pdf).
+The detailed results can be seen in the [Multi-Attention-Network for Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/document/9487010).
 
 The related repositories include:
 * [MACU-Net](https://github.com/lironui/MACU-Net)->A revised U-Net structure.
@@ -10,7 +10,7 @@ The related repositories include:
 
 If our code is helpful to you, please cite:
 
-`Li, R., Zheng, S., Duan, C., Zhang, C., Su, J., & Atkinson, P. M. (2020). Multi-attention-network for semantic segmentation of fine resolution remote sensing images. arXiv preprint arXiv:2009.02130.`
+`Li, R., Zheng, S., Duan, C., Zhang, C., Su, J., & Atkinson, P. M. (2021), "Multiattention Network for Semantic Segmentation of Fine-Resolution Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3093977.`
 
 Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). The link about the citation will be updated as soon as possible. 
 
