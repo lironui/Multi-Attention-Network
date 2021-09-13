@@ -1,6 +1,6 @@
 # Multi-Attention-Network
 
-⭐ Welcome to my [HomePage](https://lironui.github.io/) ⭐ 
+⭐ [Welcome to my HomePage](https://lironui.github.io/) ⭐ 
 
 In this repository, a novel attention mechanism of kernel attention with linear complexity is proposed to alleviate the large computational demand in attention. Based on kernel attention and channel attention, we integrate local feature maps extracted by ResNet-50 with their corresponding global dependencies and reweight interdependent channel maps adaptively. Numerical experiments on two large-scale ﬁne-resolution remote sensing datasets demonstrate the superior performance of the proposed MANet.
 
