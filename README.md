@@ -14,9 +14,6 @@ If our code is helpful to you, please cite:
 
 `Li, R., Zheng, S., Duan, C., Zhang, C., Su, J., & Atkinson, P. M. (2021), "Multiattention Network for Semantic Segmentation of Fine-Resolution Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3093977.`
 
-Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). The link about the citation will be updated as soon as possible. 
-
-
 Acknowlegement:
 ------- 
 Thanks very much for the sincere help from Jianlin Su as well as his blog [线性Attention的探索：Attention必须有个Softmax吗？](https://spaces.ac.cn/archives/7546)
