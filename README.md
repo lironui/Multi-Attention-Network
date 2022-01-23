@@ -47,11 +47,16 @@ The result on the [UAVid dataset](https://uavid.nl/) can seen from [here](https:
 | A<sup>2</sup>-FPN |ResNet-18 | **87.2** | **80.1** | **67.4**  | 80.2 | 63.7       | 53.3       | **70.1**   | **23.4**     | **65.7** | 
 
 Reference:
-`MSD: Lyu, Y., Vosselman, G., Xia, G. S., Yilmaz, A., & Yang, M. Y. (2020). UAVid: A semantic segmentation dataset for UAV imagery. ISPRS journal of photogrammetry and remote sensing, 165, 108-119.`
-`BANet: Wang, L., Li, R., Wang, D., Duan, C., Wang, T., & Meng, X. (2021). Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images. Remote Sensing, 13(16), 3065.`
-`MANet: Li, R., Zheng, S., Zhang, C., Duan, C., Su, J., Wang, L., & Atkinson, P. M. (2021). Multiattention network for semantic segmentation of fine-resolution remote sensing images. IEEE Transactions on Geoscience and Remote Sensing.`
-`ABCNet: Li, R., Zheng, S., Zhang, C., Duan, C., Wang, L., & Atkinson, P. M. (2021). ABCNet: Attentive bilateral contextual network for efficient semantic segmentation of Fine-Resolution remotely sensed imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 181, 84-98.`
-`A<sup>2</sup>-FPN: Li, R., Zheng, S., Zhang, C., Duan, C., & Wang, L. (2021). A2-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images. arXiv preprint arXiv:2102.07997.`
+
+`**MSD**: Lyu, Y., Vosselman, G., Xia, G. S., Yilmaz, A., & Yang, M. Y. (2020). UAVid: A semantic segmentation dataset for UAV imagery. ISPRS journal of photogrammetry and remote sensing, 165, 108-119.`
+
+`**BANet**: Wang, L., Li, R., Wang, D., Duan, C., Wang, T., & Meng, X. (2021). Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images. Remote Sensing, 13(16), 3065.`
+
+`**MANet**: Li, R., Zheng, S., Zhang, C., Duan, C., Su, J., Wang, L., & Atkinson, P. M. (2021). Multiattention network for semantic segmentation of fine-resolution remote sensing images. IEEE Transactions on Geoscience and Remote Sensing.`
+
+`**ABCNet**: Li, R., Zheng, S., Zhang, C., Duan, C., Wang, L., & Atkinson, P. M. (2021). ABCNet: Attentive bilateral contextual network for efficient semantic segmentation of Fine-Resolution remotely sensed imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 181, 84-98.`
+
+`**A<sup>2</sup>-FPN**: Li, R., Zheng, S., Zhang, C., Duan, C., & Wang, L. (2021). A2-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images. arXiv preprint arXiv:2102.07997.`
 
 
 ![Vaihingen](https://github.com/lironui/Multi-Attention-Network/blob/master/Fig/vai.png)  
