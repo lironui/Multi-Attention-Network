@@ -2,6 +2,8 @@
 
 ⭐ [Welcome to my HomePage](https://lironui.github.io/) ⭐ 
 
+The training and testing code can refre to [GeoSeg]https://github.com/WangLibo1995/GeoSeg].
+
 In this repository, a novel attention mechanism of kernel attention with linear complexity is proposed to alleviate the large computational demand in attention. Based on kernel attention and channel attention, we integrate local feature maps extracted by ResNet-50 with their corresponding global dependencies and reweight interdependent channel maps adaptively. Numerical experiments on two large-scale ﬁne-resolution remote sensing datasets demonstrate the superior performance of the proposed MANet.
 
 The detailed results can be seen in the [Multi-Attention-Network for Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/document/9487010).
